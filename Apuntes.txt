@@ -1,0 +1,4 @@
+Crear virtual envoironment con ctrl+shift+p, create python interpreter y con venv te crea localmente el virtual env
+Automaticamente si hacemos Python: Select interpreter y seleccionamos el virtual environment creado, al abrir nueva terminal se aplicará automáticamente
+Ya dentro se pueden hacer comandos con normalidad, y para desactivarlo te vas a otro workspace (el virtual environment se linkea al
+workspace actual)
